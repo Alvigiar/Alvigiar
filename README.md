@@ -33,6 +33,45 @@
     <div>Использую препроцессор: <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a></div>
     <div>Использую bundler: <img src="https://vitejs.dev/logo.svg" width="20x" height="20px"></div>
   </div>
+  <br/>
+</div>
+
+<div>
+  <h2>Обо мне</h2>
+  <div>Занимаюсь разработкой и версткой сайтов на HTML, CSS и JavaScript активно пользуясь Bundler Vite, SCSS, Vue</div>
+  <div>
+    <h4>Языки программирования</h4>
+    <ul>
+      <li>Javascript (стандарты ES5, ES6; есть навыки работы с DOM, Fetch, сторонними API).</li>
+      <li>Знание основ ООП и паттернов проектирования</li>
+    </ul>
+    <br/>
+    <h4>Основы вёрстки</h4>
+    <ul>
+      <li>HTML5 - семантика, адаптивнотсь. В верстке использую БЭМ-методологию.</li>
+      <li>CSS3 - зачастую использую Grid + Flexbox, из препроцессоров SCSS</li>
+    </ul>
+    <br/>
+    <h4>Графические редакторы</h4>
+    <ul>
+      <li>Figma - верстаю по предоставленному макету.</li>
+    </ul>
+    <br/>
+    <h4>Фреймворки и библиотеки</h4>
+    <ul>
+      <li>Vue - есть опыт верстки.</li>
+    </ul>
+    <br/>
+    <h4>Другое</h4>
+    <ul>
+      <li>Bundler Vite – основное использование сборщика.</li>
+      <li>Git – опыт работы с системой.</li>
+      <li>Linux – опыт взаимодействия в линукс системами и командной строкой.</li>
+    </ul>
+  </div>
+  
+  <div>Проходил онлайн курсы по верстке от Glo-Academy, марафоны по JavaScript от Result School</div>
+  
 </div>
 
 <div>
@@ -42,6 +81,3 @@
   <div>Английский - элементарный</div>
 </div>
 
-<div>
-  <h2>Дополнительная информация</h2>
-</div>
