@@ -17,15 +17,8 @@
 <div>
   <h2>Опыт работы</h2>
   <div>
-    <div>Верстальщик</div>
-    <div>С 02.2021 по настоящее время</div>
-    <div>
-      Freelance, самообучение (<a href="https://learn.javascript.ru/">learnjs</a>, <a href="https://metanit.com/">metanit</a>), марафоны (<a href="https://glo.academy/">Glo Academy</a>, <a href="https://result.school/">Result School</a>)
-    </div>
-  </div>
-  <div class="exp__jun exp-jun">
     <div>Junior Frontend</div>
-    <div>С 06.2021 по настоящее время</div>
+    <div>С 02.2021 по настоящее время</div>
     <div>
       Freelance, самообучение (<a href="https://learn.javascript.ru/">learnjs</a>, <a href="https://metanit.com/">metanit</a>), марафоны (<a href="https://glo.academy/">Glo Academy</a>, <a href="https://result.school/">Result School</a>)
     </div>
@@ -34,6 +27,12 @@
 
 <div>
   <h2>Профессиональные навыки</h2>
+  <div>
+    <div>Имею технический стак: <img class="style" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></div>
+    <div>Пользуюсь фреймворком: <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a></div>
+    <div>Использую препроцессор: <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a></div>
+    <div>Использую bundler: <img src="https://vitejs.dev/logo.svg" width="20x" height="20px"></div>
+  </div>
 </div>
 
 <div>
