@@ -28,7 +28,7 @@
 <div>
   <h2>Профессиональные навыки</h2>
   <div>
-    <div>Имею технический стак: <img class="style" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img class="style" src="https://27sysday.ru/wp-content/uploads/2021/05/js_thumb.jpg"></div>
+    <div>Имею технический стак: <img class="style" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></div>
     <div>Пользуюсь фреймворком: <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a></div>
     <div>Использую препроцессор: <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a></div>
     <div>Использую bundler: <img src="https://vitejs.dev/logo.svg" width="20x" height="20px"></div>
