@@ -29,16 +29,15 @@
   <h2>Профессиональные навыки</h2>
   <div>
     <div>Имею технический стак: <img class="style" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></div>
-    <div>Пользуюсь фреймворком: <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a></div>
     <div>Использую препроцессор: <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a></div>
-    <div>Использую bundler: <img src="https://vitejs.dev/logo.svg" width="20x" height="20px"></div>
+    <div>Использую сборщик: <img src="https://vitejs.dev/logo.svg" width="20x" height="20px"></div>
   </div>
   <br/>
 </div>
 
 <div>
   <h2>Обо мне</h2>
-  <div>Занимаюсь разработкой и версткой сайтов на HTML, CSS и JavaScript активно пользуясь Bundler Vite, SCSS, Vue</div>
+  <div>Занимаюсь разработкой и версткой сайтов на HTML, CSS и JavaScript, активно пользуясь сборщик Vite, SCSS</div>
   <div>
     <h4>Языки программирования</h4>
     <ul>
@@ -57,14 +56,9 @@
       <li>Figma - верстаю по предоставленному макету.</li>
     </ul>
     <br/>
-    <h4>Фреймворки и библиотеки</h4>
-    <ul>
-      <li>Vue - есть опыт верстки.</li>
-    </ul>
-    <br/>
     <h4>Другое</h4>
     <ul>
-      <li>Bundler Vite – основное использование сборщика.</li>
+      <li>Vite – основное использование сборщика.</li>
       <li>Git – опыт работы с системой.</li>
       <li>Linux – опыт взаимодействия в линукс системами и командной строкой.</li>
     </ul>
